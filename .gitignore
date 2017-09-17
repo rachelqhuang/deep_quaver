@@ -1,5 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+*.png
+*.csv
+*.pdf
+*.txt
+*.xlsx
+*.jpg
+*-ubyte
 *.py[cod]
 *$py.class
 
